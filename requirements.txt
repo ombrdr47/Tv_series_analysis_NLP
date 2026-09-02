@@ -1,4 +1,4 @@
-transformers==4.53.0
+transformers==5.10.1
 huggingface_hub==0.24.5
 nltk==3.9
 gradio==5.31.0
